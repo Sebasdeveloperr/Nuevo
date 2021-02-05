@@ -44,3 +44,9 @@ body
     padding: 1em;
 }
 
+img{
+    width: auto;
+    height: auto;
+    max-width: 500px;
+    max-width: 500px;
+}
